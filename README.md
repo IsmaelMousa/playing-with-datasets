@@ -1,7 +1,7 @@
 # Hugging Face Datasets Practice
 
 ## Overview
-This repository serves as a simple practice for using the Hugging Face **datasets**. With the `Pytorch` DL framework.
+This repository serves as a practice for using the Hugging Face **datasets**.
 
 ## Points
 - Practice on loading the **datasets** from the **Hugging Face** hub, in various ways.
