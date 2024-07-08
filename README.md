@@ -9,7 +9,7 @@ This repository is designed for practicing the use of Hugging Face **datasets**.
 - Understand different tokenization, batching, and padding techniques.
 - Identify and choose suitable **datasets** from the **Hugging Face** hub.
 - Practice applying preprocessing to real raw data from A to Z.
-  - >[!NOTE] 
+  - >
     > Here I used raw wikipedia dataset and applying the preprocessing operations such as:
       > 1. Removing unnecessary columns.
       > 2. Shuffling data.
