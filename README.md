@@ -9,15 +9,17 @@ This repository is designed for practicing the use of Hugging Face **datasets**.
 - Understand different tokenization, batching, and padding techniques.
 - Identify and choose suitable **datasets** from the **Hugging Face** hub.
 - Practice applying preprocessing to real raw data from A to Z.
-  - >
-    > Here I used raw wikipedia dataset and applying the preprocessing operations such as:
-      > 1. Removing unnecessary columns.
-      > 2. Shuffling data.
-      > 3. Computing article body lengths.
-      > 4. Filtering content.
-      > 5. Cleaning HTML character codes.
-      > 6. Converting between Datasets and DataFrames.
-      > 7. Splitting the data into training and testing sets.
+
+>[!NOTE]
+>
+> Here I used raw wikipedia dataset and applying the preprocessing operations such as:
+> 1. Removing unnecessary columns.
+> 2. Shuffling data.
+> 3. Computing article body lengths.
+> 4. Filtering content.
+> 5. Cleaning HTML character codes.
+> 6. Converting between Datasets and DataFrames.
+> 7. Splitting the data into training and testing sets.
 
 ## Usage
 1. Clone this repository to your local machine:
